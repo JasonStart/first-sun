@@ -16,7 +16,7 @@
     </modules>
 
     <properties>
-        <spring.version>4.0.5.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <version.feilong-platform>1.9.2</version.feilong-platform>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
